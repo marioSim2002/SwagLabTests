@@ -1,15 +1,21 @@
 # SwagLab Test project.
-
+-------------
 This repository contains a collection of resources related to the testing efforts for the [Swag Labs] website. It includes manual test cases, automated test cases, load test results, test plan, test strategy, summary report for the test, and traceability list.
 website link: https://www.saucedemo.com/
 -------------
 **Contents:**
 **Manual Test Cases:** A set of documented manual test cases covering various functionalities and scenarios of the [swag labs] website , written in jira and also provided in a file.
+
 **Automated Test Cases:** Scripts and files for automated tests designed to validate the functionality of the website.
+
 **Load Test Results:** Results and analysis from load testing conducted on the website to assess performance under different load conditions.
+
 **Test Plan:** A detailed document outlining the objectives, scope, approach, and schedule for testing the website.
+
 **Test Strategy:** A strategic document defining the overall approach, methodologies, and techniques for testing the website.
+
 **Summary Report**: A concise summary of the testing activities and findings based on the results obtained from manual and automated tests.
+
 **Traceability Matrix**: A matrix or document showing the mapping between requirements, test cases, and test results to ensure comprehensive test coverage.
 
 **Purpose:**
@@ -24,3 +30,5 @@ The summary report communicates the key findings and recommendations derived fro
 
 **Contributions:**
 Contributions to this repository are welcome .
+
+
