@@ -19,7 +19,8 @@ website link: https://www.saucedemo.com/
 **Traceability Matrix**: A matrix or document showing the mapping between requirements, test cases, and test results to ensure comprehensive test coverage.
 
 **Purpose:**
-The purpose of this repository is to centralize and organize all testing-related resources for the site. It serves as a reference for testers, developers, and interested students.
+The main purpose of this repository is to show the most important practices and skills related to the software testing industry.
+followed by centralizing and organizing all testing-related resources for the site. serving it as a reference for testers, developers, and interested students.
 
 **usage:**
 Testers can use the manual test cases to perform systematic testing of the website's functionalities, ensuring thorough validation of features.
