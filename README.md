@@ -29,6 +29,12 @@ Automated test cases can be executed to automate repetitive tests and validate c
 The test plan and strategy guide testing efforts, ensuring alignment with project goals and objectives.
 The summary report communicates the key findings and recommendations derived from testing activities, informing about the quality website.
 
+**Tools/Frameworks Used:**
+- **Automated Testing:** Katalon, Playwright
+- **Test Management:** Jira, Zephyr Scale, Confluence
+- **Load Testing:** JMeter
+
+
 **Contributions:**
 Contributions to this repository are welcome .
 
